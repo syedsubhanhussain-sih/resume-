@@ -19,10 +19,10 @@ Portfolio of **Syed Subhan Hussain** — Cyber Security Analyst, IoT & Blockchai
 To run locally:
 ```bash
 # Clone the repository
-git clone https://github.com/syedsubhanhussain-sih/syed-subhan-portfolio.git
+git clone https://github.com/syedsubhanhussain-sih/resume-.git
 
 # Navigate into the site directory
-cd syed-subhan-portfolio/site
+cd resume-/site
 
 # Start a local web server (Python 3)
 python -m http.server 3000
