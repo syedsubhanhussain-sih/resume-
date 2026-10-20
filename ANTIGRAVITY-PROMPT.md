@@ -23,8 +23,8 @@ You are working with the **Oni-Ronin** open-source project by MiladiCode (a 3D s
 **Key Skills:** Wireshark, Nmap, Burp Suite, Metasploit, Snort, Nessus, Hydra, John the Ripper, TCP/IP, VPNs, Firewalls, Kali/Ubuntu Linux, C/C++, Java, Python, JavaScript, React, Node.js, FastAPI, MySQL, PostgreSQL, MongoDB, Firebase, Git, Docker
 
 **Key Projects:**
-- **DEFENXIA** — Smart India Hackathon Finalist (Team Leader)
-- **DEFENXIA Mobile Security App** — Won mini-project competition (₹3,000 prize)
+- **DEFENXIA** — Finalist - college internal hackathon (SIH 2025 nomination round), Team Defenxia (Team Leader). One unified mobile-security platform: live web app + Android app.
+- **DEFENXIA (mini project → major project)** — First Prize - INNOVATE-2025, IEEE Inter-Collegiate Mini-Project Showcase, GNDEC Bidar (Nov 2025) for DEFENXIA (Rs. 3000 cash prize)
 
 **Practical Experience:** Nmap vulnerability assessments, Wireshark/tcpdump (50+ packet captures), Burp Suite (SQLi/XSS testing), Snort IDS setup, ARP spoofing / MITM simulations
 
@@ -32,7 +32,7 @@ You are working with the **Oni-Ronin** open-source project by MiladiCode (a 3D s
 
 **Certifications:** Cisco Networking, Red Hat Linux, Ethical Hacking (Simplilearn), LearnTube, Infosys Springboard, MERN Stack (Zenexis), AWS Cloud Essentials, DevOps + Cloud Security (Cyber Defentech), ADVAYA 2.0
 
-**Achievements:** Smart India Hackathon Finalist, PALS Finals, Class Topper (5th semester)
+**Achievements:** First Prize - INNOVATE-2025, IEEE Inter-Collegiate Mini-Project Showcase, GNDEC Bidar (Nov 2025) for DEFENXIA (Rs. 3000 cash prize); Finalist - college internal hackathon (SIH 2025 nomination round), Team Defenxia; PALS Finals, Class Topper (5th semester)
 
 **Internships (all Cyber Security):** SYNTECXHUB, FUTURE INTERNS, INFOTACT SOLUTIONS
 
@@ -105,15 +105,15 @@ The site has a 3D spiral/circular carousel of cards around a sword. **Replace al
 | 03 | `card-03-security-arsenal.webp` | Security Arsenal | exorcisms | Wireshark, Nmap, Burp Suite, Metasploit, Snort, Nessus, Hydra, John — the tools of the trade. |
 | 04 | `card-04-network-warden.webp` | Network Warden | duels | TCP/IP, VPNs, firewalls, IDS/IPS — hardening networks and catching intrusions in real time. |
 | 05 | `card-05-code-and-data.webp` | Code & Data | heists | C, C++, Java, Python, JavaScript, React, Node.js, FastAPI — building secure software and managing data. |
-| 06 | `card-06-defenxia-sih.webp` | DEFENXIA SIH | bounties | Team Leader at Smart India Hackathon — built a cyber-security platform as a finalist. |
-| 07 | `card-07-defenxia-mobile-app.webp` | DEFENXIA Mobile | exorcisms | Mobile security app that won the mini-project competition (₹3,000 prize). |
+| 06 | `card-06-defenxia-sih.webp` | DEFENXIA | bounties | Team Leader of DEFENXIA — one unified mobile-security platform (web app + Android app). Finalist - college internal hackathon (SIH 2025 nomination round), Team Defenxia. |
+| 07 | `card-07-defenxia-mobile-app.webp` | DEFENXIA — INNOVATE-2025 | exorcisms | First Prize - INNOVATE-2025, IEEE Inter-Collegiate Mini-Project Showcase, GNDEC Bidar (Nov 2025) for DEFENXIA (Rs. 3000 cash prize). |
 | 08 | `card-08-vulnerability-assessment.webp` | Vuln Assessment | duels | Nmap vulnerability scans — mapping open ports, services, and CVEs with remediation reports. |
 | 09 | `card-09-packet-hunter.webp` | Packet Hunter | heists | 50+ Wireshark/tcpdump captures analyzed — finding malicious patterns in network traffic. |
 | 10 | `card-10-web-security.webp` | Web Security | exorcisms | Burp Suite testing for SQL injection and XSS — securing web applications. |
 | 11 | `card-11-intrusion-detection.webp` | Intrusion Detection | duels | Snort IDS with custom rules — simulating ARP spoofing and MITM attacks to strengthen defenses. |
 | 12 | `card-12-hacktober-lead.webp` | Hacktober Lead | escorts | Led HACKTOBER cyber-awareness event with 100+ participants. |
 | 13 | `card-13-certifications.webp` | Certified Arsenal | bounties | Cisco Networking, Red Hat Linux, Ethical Hacking, AWS Cloud, DevOps+Cloud Security, MERN Stack. |
-| 14 | `card-14-achievements.webp` | Proven in Battle | heists | SIH Finalist, PALS Finals, Class Topper (5th sem), 3 cyber-security internships. |
+| 14 | `card-14-achievements.webp` | Proven in Battle | heists | First Prize - INNOVATE-2025, IEEE Inter-Collegiate Mini-Project Showcase, GNDEC Bidar (Nov 2025) for DEFENXIA (Rs. 3000 cash prize); Finalist - college internal hackathon (SIH 2025 nomination round), Team Defenxia; PALS Finals, Class Topper (5th sem), 3 cyber-security internships. |
 
 ### Card Image Requirements:
 - Images must be **BRIGHT and clearly visible** on the cards (not dark/muddy)
@@ -134,7 +134,7 @@ Replace the 5 game features with portfolio-themed expertise areas. Each has a ti
 | 02 | Secure Networks | Hardening networks with firewalls, VPNs and IDS. Snort rules tuned to catch intrusions in real time across lab systems. | Firewalls, Snort IDS, VPNs |
 | 03 | Hunt Vulnerabilities | Nmap vulnerability scans mapping open ports, services and CVEs. Every finding documented with severity and remediation steps. | Nmap scans, CVE mapping, Reports |
 | 04 | Defend Systems | Building defenses with Metasploit testing and John the Ripper audits. Simulating ARP spoofing and MITM attacks to strengthen systems. | Pen testing, MITM sims, Hardening |
-| 05 | Lead Teams | Led HACKTOBER cyber-awareness event with 100+ participants. Team Leader for DEFENXIA at Smart India Hackathon finals. | 100+ hackers, SIH Finalist, Team lead |
+| 05 | Lead Teams | Led HACKTOBER cyber-awareness event with 100+ participants. Team Leader for DEFENXIA — Finalist - college internal hackathon (SIH 2025 nomination round), Team Defenxia. | 100+ hackers, College hackathon finalist, Team lead |
 
 ---
 

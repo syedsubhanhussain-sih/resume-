@@ -5,7 +5,7 @@ A high-performance interactive 3D cyberpunk portfolio showcasing cybersecurity p
 ![Portfolio Preview](/site/images/preview.png)
 
 ## 🛡️ About
-Portfolio of **Syed Subhan Hussain** — Cyber Security Analyst, IoT & Blockchain Specialist, and Software Engineer (GNDEC Bidar, Class of 2027). Team Leader of **DEFENXIA** (Smart India Hackathon Finalist) and lead organizer of the **HACKTOBER** cybersecurity event.
+Portfolio of **Syed Subhan Hussain** — Cyber Security Analyst, IoT & Blockchain Specialist, and Software Engineer (GNDEC Bidar, Class of 2027). Team Leader of **DEFENXIA** (Finalist - college internal hackathon, SIH 2025 nomination round) and lead organizer of the **HACKTOBER** cybersecurity event.
 
 ## ⚡ Features
 - **Interactive 3D Hero Section**: Real-time 3D character (`Silent Shadow`) rendered with WebGL and Three.js with full dynamic lighting, post-processing aura bloom, and 360° scroll rotation.
