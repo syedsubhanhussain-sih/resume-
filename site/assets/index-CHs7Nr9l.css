@@ -84,3 +84,53 @@ body.is-loading {
   color: var(--dim, #888);
   margin: 4px 0;
 }
+
+/* ============================================================
+   FIX PACK 2026-11-01 — responsive / overflow / contrast / scroll
+   Appended overrides: win over bundle rules of equal specificity.
+   ============================================================ */
+:root{--dim:#7f786e;--muted:#a79e91;--wordmark:#2e2a26}
+html,body{overflow-x:clip}
+.wordmark{font-size:14.2vw}
+.footer__mark{font-size:14.2vw}
+.chapter{max-width:min(30vw,430px)}
+.chapter--right{left:auto;right:var(--gutter)}
+.hero{height:420vh}
+.services{height:620vh}
+.arsenal{height:330vh}
+.menu__nav a{color:#7e766b}
+.arsenal__list button{color:#71695f}
+.arsenal__list button:hover{color:#a39a8d}
+.manifesto .w{color:#4a453f}
+.pill{font-size:10.5px;height:30px}
+.hero__statements p{font-size:11px;line-height:1.4}
+.section-label{font-size:11px}
+.section-index{font-size:9px}
+.chapter__index{font-size:9px}
+.chapter__body{font-size:clamp(11px,.7vw,13px)}
+.footer__head{font-size:10px}
+.world__stats dt{font-size:10px}
+.detail__of,.detail__cat,.detail__client,.detail__meta dt{font-size:9.5px}
+.detail__text{font-size:12px}
+.services__hint{font-size:10px;color:#a79e91}
+.services__finder{width:280px}
+.finder__ask input{font-size:12px}
+.hero__stage{background:radial-gradient(120% 90% at 50% 28%,#1e1b17 0%,var(--bg) 62%)}
+@media (max-width:760px){
+  .hero{height:400vh}
+  .services{height:560vh}
+  .arsenal{height:300vh}
+  .wordmark{font-size:13.5vw}
+  .footer__mark{font-size:13.5vw}
+  .chapter{max-width:86vw;top:38vh}
+  .chapter--left{left:var(--gutter)}
+  .chapter--right{right:var(--gutter)}
+  .arsenal__stage{grid-template-columns:minmax(0,1fr);padding-top:76px;align-items:start}
+  .arsenal__list button{white-space:normal;font-size:clamp(21px,6.4vw,30px)}
+  .footer__top{grid-template-columns:minmax(0,1fr)}
+  .footer__links{gap:14px}
+  .footer__links a{font-size:12px}
+  .services__finder{width:min(280px,calc(100vw - 32px))}
+  .manifesto{font-size:clamp(26px,8.4vw,40px)}
+  .world__stats dd{font-size:13vw}
+}
